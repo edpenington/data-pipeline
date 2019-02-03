@@ -1,0 +1,8 @@
+{
+    "title": "2016 Ward Populations",
+    "id" : "SAPE2016_WDCD16",
+    "source": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental",
+    "description": "Small Area Population Estimates for mid-2016 for wards in England and Wales, using 2016 ward boundaries",
+    "folder" : "ONS_SAPE",
+    "filename" : "SAPE19DT8-mid-2016-ward-2016-syoa-estimates-unformatted.xlsx"
+  }
